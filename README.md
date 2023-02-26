@@ -1,7 +1,7 @@
 <div align="center">
-<img src="/workspaces/-free-domains/img/iceberg.svg"/>
+<img src="img/iceberg.svg"/>
 <br />
-<img src="/workspaces/-free-domains/img/font.svg"/>
+<img src="img/font.svg"/>
 <br />
 <hr />
 A collective list of free subdomains for use on personal sites, open source projects, and more.
