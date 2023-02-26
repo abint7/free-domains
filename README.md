@@ -32,3 +32,6 @@ A collective list of free subdomains for use on personal sites, open source proj
  | [runs-on.tech](runs-on.tech) | Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more. | [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) | ❌ |
  | [withcoding.me](withcoding.me) | Free subdomain for everyone. | [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) | ❌ |
  <!-- END LIST -->
+
+## License
+This project is under the [MIT License](LICENSE).
