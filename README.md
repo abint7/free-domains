@@ -33,5 +33,7 @@ A collective list of free subdomains for use on personal sites, open source proj
  | [withcoding.me](withcoding.me) | Free subdomain for everyone. | [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) | ❌ |
  <!-- END LIST -->
 
+<br />
+<hr />
 ## License
 This project is under the [MIT License](LICENSE).
