@@ -13,7 +13,7 @@ A collective list of free subdomains for use on personal sites, open source proj
 <!-- START LIST -->
  | Domain | About | Repository | Current status | 
  |--------|-------|------------|----------------| 
- | [cluster.ws](cluster.ws) & [wip.la](wip.la) | For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain | [Olivr/free-domain](https://github.com/Olivr/free-domain) | ✅ |
+ | [cluster.ws](https://cluster.ws/) & [wip.la](https://wip.la/) | For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain | [Olivr/free-domain](https://github.com/Olivr/free-domain) | ✅ |
  | [thedev.id](https://thedev.id/) | An identity for developers on the web. | [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) | ✅ |
  | [is-an.app](https://is-an.app/) & [1bt.uk](https://1bt.uk/) | :globe_with_meridians: Grab your own subdomain (for personal sites, open-source projects, and more) for free | [tarampampam/free-domains](https://github.com/tarampampam/free-domains) | ✅  |
  | [dee.al](https://domain.dee.al/) | We provide free domain for web developer Create free domain ENJOY | [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) | ✅ |
