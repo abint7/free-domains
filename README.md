@@ -35,5 +35,6 @@ A collective list of free subdomains for use on personal sites, open source proj
 
 <br />
 <hr />
+
 ## License
 This project is under the [MIT License](LICENSE).
