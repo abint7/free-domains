@@ -29,8 +29,8 @@ A collective list of free subdomains for use on personal sites, open source proj
  | [js.cool](https://js.cool/) | Provide free subdomains for Chinese open source projects (since August 2020), now support Vercel! | [willin/js.cool](https://github.com/willin/js.cool) | ✅ | 
  | [js.org](https://js.org/) | Dedicated to JavaScript and its awesome community since 2015 | [js-org/js.org](https://github.com/js-org/js.org) | ✅ |
  | [may-be.gay](https://may-be.gay/) | may-be.gay is a service in which you can register your own sub-domain for your personal website! Catered to queerfolx, but all inclusive :rainbow_flag:. | [may-be-gay/register](https://github.com/may-be-gay/register) | ❌ |
- | [runs-on.tech](runs-on.tech) | Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more. | [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) | ❌ |
- | [withcoding.me](withcoding.me) | Free subdomain for everyone. | [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) | ❌ |
+ | [runs-on.tech](http://runs-on.tech/) | Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more. | [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) | ❌ |
+ | [withcoding.me](http://withcoding.me/) | Free subdomain for everyone. | [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) | ❌ |
  <!-- END LIST -->
 
 <br />
