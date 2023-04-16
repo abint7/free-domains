@@ -21,7 +21,7 @@ A collective list of free subdomains for use on personal sites, open source proj
  | [is-a.co](https://is-a.co/) | :globe_with_meridians: Grab your own subdomain for free Follow the steps listed below to get your own subdomain! | [PythonicBoat/is-a.co](https://github.com/PythonicBoat/is-a.co) | ✅ |
  | [is-cool.dev & is-local.org & is-not-a.dev & localplayer.dev](https://open-domains.net/) | Free subdomains for personal sites, open-source projects, and more. | [open-domains/register](https://github.com/open-domains/register) | ✅ |
  | [is-a-backend.dev & is-a-frontend.dev](https://freesubdomains.org/) | Free subdomains for personal sites, open-source projects, and more. | [free-domains/register](https://github.com/free-domains/register) | ✅ |
- | [is-a-good.dev](https://is-a-good.dev/) | Register for your is-a-good.dev domain! | [is-a-good-dev/register](https://github.com/is-a-good-dev/register) | ✅ | 
+ | [is-a-good.dev](https://is-a-good.dev/) | Register for your is-a-good.dev domain! | [is-a-good-dev/register](https://github.com/is-a-good-dev/register) | ❌ | 
  | [is-a.dev](https://www.is-a.dev/) | is-a-dev is a service that allows developers to get a sweet-looking ".is-a.dev" domain for their personal websites. | [is-a-dev/register](https://github.com/is-a-dev/register) | ✅ |
  | [is-really.cool](https://is-really.cool) | A place for software devs to host their really cool projects and personal websites for Free | [is-really-cool/register](https://github.com/is-really-cool/register) | ✅ |
  | [js.cool](https://js.cool/) | Provide free subdomains for Chinese open source projects (since August 2020), now support Vercel! | [willin/js.cool](https://github.com/willin/js.cool) | ✅ | 
