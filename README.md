@@ -25,6 +25,7 @@ A collective list of free subdomains for use on personal sites, open source proj
  | [is-a-good.dev](https://is-a-good.dev/) | Register for your is-a-good.dev domain! | [is-a-good-dev/register](https://github.com/is-a-good-dev/register) | ✅ | 
  | [is-a.dev](https://www.is-a.dev/) | is-a-dev is a service that allows developers to get a sweet-looking ".is-a.dev" domain for their personal websites. | [is-a-dev/register](https://github.com/is-a-dev/register) | ✅ |
  | [is-really.cool](https://is-really.cool) | A place for software devs to host their really cool projects and personal websites for Free | [is-really-cool/register](https://github.com/is-really-cool/register) | ✅ |
+  | [is-a-shitty.dev](https://is-a-shitty.dev) | A free is-a-shitty.dev subdomain!  (Vercel support) | [VienDC/is-a-shitty.dev](https://github.com/VienDC/is-a-shitty.dev) | ✅ |
  | [js.cool](https://js.cool/) | Provide free subdomains for Chinese open source projects (since August 2020), now support Vercel! | [willin/js.cool](https://github.com/willin/js.cool) | ✅ | 
  | [js.org](https://js.org/) | Dedicated to JavaScript and its awesome community since 2015 | [js-org/js.org](https://github.com/js-org/js.org) | ✅ |
  | [may-be.gay](https://may-be.gay/) | may-be.gay is a service in which you can register your own sub-domain for your personal website! Catered to queerfolx, but all inclusive :rainbow_flag:. | [may-be-gay/register](https://github.com/may-be-gay/register) | ❌ |
