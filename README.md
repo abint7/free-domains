@@ -13,15 +13,15 @@ A collective list of free subdomains for use on personal sites, open source proj
 <!-- START LIST -->
  | Domain | About | Repository | Current status | 
  |--------|-------|------------|----------------|
- | [is-an.app](https://is-an.app/) |  Are you a developer exploring an awesome domain name for your application, personal website, or project? You came to the right place! This service offers a handy subdomain service for you to have a subdomain via CNAME, A, AAAA, or NS DNS records. In limited cases, you can use a wildcard subdomain.  | [tarampampam/free-domains](https://github.com/tarampampam/free-domains) | ✅  |
- | [cluster.ws](https://cluster.ws/) & [wip.la](https://wip.la/) | For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain | [Olivr/free-domain](https://github.com/Olivr/free-domain) | ✅ |
+ | [is-an.app](https://is-an.app/) |  Are you a developer exploring an awesome domain name for your application, personal website, or project? You came to the right place! This service offers a handy subdomain service for you to have a subdomain via CNAME, A, AAAA, or NS DNS records. In limited cases, you can use a wildcard subdomain.  | [tarampampam/free-domains](https://github.com/tarampampam/free-domains) | ❌  |
+ | [cluster.ws](https://cluster.ws/) & [wip.la](https://wip.la/) | For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain | [Olivr/free-domain](https://github.com/Olivr/free-domain) | ❌ |
  | [thedev.id](https://thedev.id/) | An identity for developers on the web. | [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) | ✅ |
- | [dee.al](https://domain.dee.al/) | We provide free domain for web developer Create free domain ENJOY | [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) | ✅ |
- | [io.day](https://io.day/) | Free subdomain io.day for personal sites, projects, hobby and more. | [DennisKidman/io.day](https://github.com/DennisKidman/io.day) | ✅ |
- | [jsid.dev](https://jsid.dev/) | An identity for developers on the web. | [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) | ✅ |
- | [is-a.co](https://is-a.co/) | :globe_with_meridians: Grab your own subdomain for free Follow the steps listed below to get your own subdomain! | [PythonicBoat/is-a.co](https://github.com/PythonicBoat/is-a.co) | ✅ |
+ | [dee.al](https://domain.dee.al/) | We provide free domain for web developer Create free domain ENJOY | [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) | ❌ |
+ | [io.day](https://io.day/) | Free subdomain io.day for personal sites, projects, hobby and more. | [DennisKidman/io.day](https://github.com/DennisKidman/io.day) | ❌ |
+ | [jsid.dev](https://jsid.dev/) | An identity for developers on the web. | [namdevel/jsid.dev](https://github.com/namdevel/jsid.dev) | ❌ |
+ | [is-a.co](https://is-a.co/) | :globe_with_meridians: Grab your own subdomain for free Follow the steps listed below to get your own subdomain! | [PythonicBoat/is-a.co](https://github.com/PythonicBoat/is-a.co) | ❌ |
  | [is-cool.dev & is-local.org & is-not-a.dev & localplayer.dev](https://open-domains.net/) | Free subdomains for personal sites, open-source projects, and more. | [open-domains/register](https://github.com/open-domains/register) | ✅ |
- | [is-a-backend.dev & is-a-frontend.dev](https://freesubdomains.org/) | Free subdomains for personal sites, open-source projects, and more. | [free-domains/register](https://github.com/free-domains/register) | ✅ |
+ | [is-a-backend.dev & is-a-frontend.dev](https://open-domains.net/) | Free subdomains for personal sites, open-source projects, and more. | [free-domains/register](https://github.com/free-domains/register) | ✅ |
  | [is-a-good.dev](https://is-a-good.dev/) | Register for your is-a-good.dev domain! | [is-a-good-dev/register](https://github.com/is-a-good-dev/register) | ✅ | 
  | [is-a.dev](https://www.is-a.dev/) | is-a-dev is a service that allows developers to get a sweet-looking ".is-a.dev" domain for their personal websites. | [is-a-dev/register](https://github.com/is-a-dev/register) | ✅ |
  | [is-really.cool](https://is-really.cool) | A place for software devs to host their really cool projects and personal websites for Free | [is-really-cool/register](https://github.com/is-really-cool/register) | ✅ |
