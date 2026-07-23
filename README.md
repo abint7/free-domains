@@ -13,6 +13,7 @@ A collective list of free subdomains for use on personal sites, open source proj
 <!-- START LIST -->
  | Domain | About | Repository | Current status | 
  |--------|-------|------------|----------------|
+ | [ing.ng](https://ing.ng/) | Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web. ENS + browser resolution, no renewal fees. | [kartikraichura/ingng-cli](https://github.com/kartikraichura/ingng-cli) | ✅ |
  | [is-an.app](https://is-an.app/) |  Are you a developer exploring an awesome domain name for your application, personal website, or project? You came to the right place! This service offers a handy subdomain service for you to have a subdomain via CNAME, A, AAAA, or NS DNS records. In limited cases, you can use a wildcard subdomain.  | [tarampampam/free-domains](https://github.com/tarampampam/free-domains) | ✅  |
  | [cluster.ws](https://cluster.ws/) & [wip.la](https://wip.la/) | For IT enthusiasts who need a temporary domain name or those who can't or don't want to pay for a top level domain | [Olivr/free-domain](https://github.com/Olivr/free-domain) | ✅ |
  | [thedev.id](https://thedev.id/) | An identity for developers on the web. | [thedev-id/thedev.id](https://github.com/thedev-id/thedev.id) | ✅ |
