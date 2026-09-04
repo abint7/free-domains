@@ -31,6 +31,7 @@ A collective list of free subdomains for use on personal sites, open source proj
  | [runs-on.tech](http://runs-on.tech/) | Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more. | [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) | ❌ |
  | [withcoding.me](http://withcoding.me/) | Free subdomain for everyone. | [JastinXyz/withcoding.me](https://github.com/JastinXyz/withcoding.me) | ❌ |
  | [tilde.tk](https://tilde.tk/) | In need of a cool subdomain? And want it to be your own UNIX home directory? Then tilde.tk (~.tk) is right for you | [youngchief-btw/tilde.tk](https://github.com/youngchief-btw/tilde.tk) | ❌ |
+  | [go-live.me](https://go-live.me) | Instant, globally distributed Anycast subdomains (*.go-live.me) with 1-click presets for Vercel, GitHub Pages, Render, and Custom DNS. | [shanmukhasaireddy13/Go-Live](https://github.com/shanmukhasaireddy13/Go-Live) | ✅ |
  <!-- END LIST -->
 
 <br />
